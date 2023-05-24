@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning HTML, CSS, & Javascript<br>I'm Ungraduated college at Universitas islam Negeri Sunan Kalijaga
+I'm currently learning HTML, CSS, & Javascript<br>I'm Ungraduated college student at Universitas islam Negeri Sunan Kalijaga
 
 
 ## 🌐 Socials:
